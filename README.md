@@ -18,4 +18,5 @@ Zachary Gagnon
 Jeff hebert  
 Nathan Vezina  
 Bryan Gagne-Plante  
-Remi St-Pierre  
+Remi St-Pierre
+Maxime Dubois 
