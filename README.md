@@ -4,3 +4,4 @@
 Yoann Flores  
 Nicolas Gauvin  
 David Lavigne
+Raphael Bouchard-Tremblay
