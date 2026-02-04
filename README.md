@@ -2,3 +2,4 @@
 
 ### Contributeurs automne 2025
 Yoann Flores
+Nicolas Gauvin
