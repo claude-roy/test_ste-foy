@@ -2,5 +2,5 @@
 
 ### Contributeurs automne 2025
 Yoann Flores  
-Nicolas Gauvin
+Nicolas Gauvin  
 David Lavigne
