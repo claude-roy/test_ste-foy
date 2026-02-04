@@ -5,3 +5,5 @@ Yoann Flores
 Nicolas Gauvin    
 David Lavigne  
 Ahmed Gomy  
+Raphael Bouchard-Tremblay  
+
