@@ -6,4 +6,5 @@ Nicolas Gauvin
 David Lavigne  
 Ahmed Gomy  
 Raphael Bouchard-Tremblay  
-Ricardo Samedi  
+Ricardo Samedi
+Uri-Joel Leukoue Mbounga
