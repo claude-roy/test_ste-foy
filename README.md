@@ -7,3 +7,4 @@ David Lavigne
 Ahmed Gomy  
 Raphael Bouchard-Tremblay  
 Ricardo Samedi  
+Pierre-Luc Lizée
