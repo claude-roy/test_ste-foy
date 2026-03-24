@@ -7,3 +7,5 @@ David Lavigne
 Ahmed Gomy  
 Raphael Bouchard-Tremblay  
 Ricardo Samedi  
+
+Alexis Gobeil-Copeau
