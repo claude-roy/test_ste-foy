@@ -6,4 +6,6 @@ Nicolas Gauvin
 David Lavigne  
 Ahmed Gomy  
 Raphael Bouchard-Tremblay  
-Ricardo Samedi  
+Ricardo Samedi
+# Contributeurs hiver 2026
+Martin Lemay
